@@ -7,9 +7,7 @@ https://www.youtube.com/watch?v=RcTD6_EFzbY
 https://nshopvn.com/product/combo-tu-lam-xe-3-banh-tranh-vat-can-arduino/
 
 The piece of code you find in this project has much better logic compared to the original.
-The components and wiring like so. Enjoy your cart.
-
-![alt text](https://github.com/hoanghuy89/arduino_cart/raw/main/frame.jpg?raw=true)
+The components and wiring like so. ![alt text](https://github.com/hoanghuy89/arduino_cart/raw/main/frame.jpg?raw=true)
 
 Power wire
 ![alt text](https://github.com/hoanghuy89/arduino_cart/raw/main/wiring1.jpg?raw=true)
@@ -17,4 +15,6 @@ Power wire
 Control wire
 ![alt text](https://github.com/hoanghuy89/arduino_cart/raw/main/wiring2.jpg?raw=true)
 
+
+Enjoy your cart.
 
