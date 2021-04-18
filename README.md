@@ -1,8 +1,8 @@
 # arduino_cart
 This code to build 3 wheels cart that can avoid obstacle. What you need is an acrylic 3 wheels robot frame usually comes with 2 motors, Arduino, motor controller, servo and ultra sonic sensor.
 This project is inspired buy these guys on youtube. 
-https://www.youtube.com/watch?v=RcTD6_EFzbY
 
+https://www.youtube.com/watch?v=RcTD6_EFzbY
 https://nshopvn.com/product/combo-tu-lam-xe-3-banh-tranh-vat-can-arduino/
 
 The piece of code you find in this project has much better logic compared to the original.
