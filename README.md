@@ -1,5 +1,5 @@
-# arduino_cart
-This code to build 3 wheels cart that can avoid obstacle. What you need is an acrylic 3 wheels robot frame usually comes with 2 motors, Arduino, motor controller, servo and ultra sonic sensor.
+## arduino_cart
+This code for aduino compatible micro-controller to control 3 wheels cart that can avoid obstacle. What you need is an acrylic 3 wheels robot frame usually comes with 2 motors, Arduino, motor controller, servo and ultra sonic sensor.
 This project is inspired buy these guys on youtube. 
 
 https://www.youtube.com/watch?v=RcTD6_EFzbY
